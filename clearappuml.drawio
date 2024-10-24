@@ -180,7 +180,7 @@
           <mxGeometry x="640" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IAnjSvKWJ1WFlibN45oN-10" value="Request clearance&lt;div&gt;for individual depts&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7MYLrjF1jAQgoCgVVDOL-3">
-          <mxGeometry x="640" y="1250" width="120" height="80" as="geometry" />
+          <mxGeometry x="640" y="1250" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IAnjSvKWJ1WFlibN45oN-11" value="Download clearance form" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7MYLrjF1jAQgoCgVVDOL-3">
           <mxGeometry x="640" y="1360" width="120" height="80" as="geometry" />
